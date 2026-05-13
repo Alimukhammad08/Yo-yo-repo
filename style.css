@@ -443,6 +443,7 @@ footer {
   color: white;
   display: flex;
   align-items: center;
+  justify-content: space-around;
   margin: auto;
   margin-top: 20px;
 }
@@ -469,4 +470,10 @@ footer .foot1 .minifoot .minifoot p {
 footer .foot2 {
   width: 339px;
   height: 218px;
+}
+footer .foot2 .subs {
+  width: 330px;
+  height: 48px;
+  background-color: white;
+  border-radius: 10px;
 }/*# sourceMappingURL=style.css.map */
