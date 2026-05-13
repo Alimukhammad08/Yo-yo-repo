@@ -16,14 +16,14 @@ $mainColor: #217BF4;
     margin: auto;
 }
 
-    @mixin buttons {
-        padding: 15px 40px;
-        font-size: 18px;
-        background-color: $mainColor;
-        border: none;
-        border-radius: 10px;
-        color: white
-    }
+@mixin buttons {
+    padding: 15px 40px;
+    font-size: 18px;
+    background-color: $mainColor;
+    border: none;
+    border-radius: 10px;
+    color: white
+}
 
 header {
     @include container();
@@ -391,12 +391,14 @@ header {
             background-color: rgba(0, 0, 255, 0);
         }
     }
-    img{
+
+    img {
         width: 50%;
         position: relative;
         top: 20px;
     }
 }
+
 .section7 {
     @include container();
     margin-top: 40px;
@@ -428,6 +430,43 @@ header {
             font-size: 16px;
             font-weight: 400;
             color: rgba(101, 100, 100, 1);
+        }
+    }
+}
+
+footer {
+    max-width: 1440px;
+    height: 485px;
+    background-color: #2B2B39;
+    color: white;
+    display: flex;
+    align-items: center;
+    margin: auto;
+    margin-top: 20px;
+
+    .foot1{
+        width: 668px;
+        height: 226px;
+        display: flex;
+        align-items: center;
+        background-color: blue;
+
+        .minifoot{
+            width: 100px;
+            height: 220px;
+            background-color: red;
+
+            .minifoot h1{
+                font-size: 20px;
+                font-weight: 500;
+            }
+
+            .minifoot p{
+                font-weight: 400;
+                color: #E7E7E7;
+                font-size: 16px;
+            }
+
         }
     }
 }
