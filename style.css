@@ -10,7 +10,7 @@ header {
   justify-content: space-evenly;
   align-items: center;
   padding: 20px;
-  max-width: 1250px;
+  max-width: 1440px;
   margin: auto;
 }
 header div {
@@ -34,7 +34,7 @@ header input {
   justify-content: space-evenly;
   align-items: center;
   padding: 20px;
-  max-width: 1250px;
+  max-width: 1440px;
   margin: auto;
   background: linear-gradient(rgba(212, 231, 254, 0), rgb(212, 231, 254));
 }
@@ -86,7 +86,7 @@ header input {
   justify-content: space-evenly;
   align-items: center;
   padding: 20px;
-  max-width: 1250px;
+  max-width: 1440px;
   margin: auto;
   margin-top: 80px;
 }
@@ -134,7 +134,7 @@ header input {
   justify-content: space-evenly;
   align-items: center;
   padding: 20px;
-  max-width: 1250px;
+  max-width: 1440px;
   margin: auto;
   align-items: center;
   margin-top: 50px;
@@ -222,7 +222,7 @@ header input {
   justify-content: space-evenly;
   align-items: center;
   padding: 20px;
-  max-width: 1250px;
+  max-width: 1440px;
   margin: auto;
   flex-wrap: wrap;
   gap: 70px;
@@ -292,7 +292,7 @@ header input {
   justify-content: space-evenly;
   align-items: center;
   padding: 20px;
-  max-width: 1250px;
+  max-width: 1440px;
   margin: auto;
   margin-top: 40px;
 }
@@ -328,7 +328,7 @@ header input {
   justify-content: space-evenly;
   align-items: center;
   padding: 20px;
-  max-width: 1250px;
+  max-width: 1440px;
   margin: auto;
   background-color: rgb(229, 240, 253);
   margin-bottom: 70px;
@@ -405,7 +405,7 @@ header input {
   justify-content: space-evenly;
   align-items: center;
   padding: 20px;
-  max-width: 1250px;
+  max-width: 1440px;
   margin: auto;
   margin-top: 40px;
 }
