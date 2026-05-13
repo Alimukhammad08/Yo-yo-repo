@@ -447,23 +447,26 @@ footer {
   margin-top: 20px;
 }
 footer .foot1 {
-  width: 668px;
+  width: 820px;
   height: 226px;
   display: flex;
   align-items: center;
-  background-color: blue;
+  justify-content: space-between;
 }
 footer .foot1 .minifoot {
-  width: 100px;
-  height: 220px;
-  background-color: red;
+  width: 200px;
+  height: 250px;
 }
 footer .foot1 .minifoot .minifoot h1 {
-  font-size: 20px;
-  font-weight: 500;
+  font-size: 15px;
+  font-weight: 400;
 }
 footer .foot1 .minifoot .minifoot p {
   font-weight: 400;
   color: #E7E7E7;
   font-size: 16px;
+}
+footer .foot2 {
+  width: 339px;
+  height: 218px;
 }/*# sourceMappingURL=style.css.map */
